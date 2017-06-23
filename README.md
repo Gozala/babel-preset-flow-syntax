@@ -13,7 +13,7 @@ plugin in order to be able to parse it.
 
 This preset includes the following plugins & presets:
 
-- [preset-flow]()
+- [preset-flow][]
 - [transform-class-properties][]
 
 ## Example
@@ -33,7 +33,7 @@ function foo(one, two, three) {}
 ## Installation
 
 ```sh
-npm install --save-dev babel-preset-flow
+npm install --save-dev babel-preset-flow-syntax
 ```
 
 ## Usage
